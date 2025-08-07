@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<library>
+    <book>
+        <title>Effective Java</title>
+        <author>Joshua Bloch</author>
+        <year>2018</year>
+        <isbn>978-0134686097</isbn>
+    </book>
+    <book>
+        <title>Clean Code</title>
+        <author>Robert C. Martin</author>
+        <year>2008</year>
+        <isbn>978-0132350884</isbn>
+    </book>
+    <book>
+        <title>The Pragmatic Programmer</title>
+        <author>Andrew Hunt, David Thomas</author>
+        <year>1999</year>
+        <isbn>978-0201616224</isbn>
+    </book>
+</library>
